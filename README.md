@@ -6,6 +6,6 @@ Description of files
 
 **Figure S3** - Circular dichroism spectra of LUNA. Ellipticity of LUNA at 222 nm measured as a function of increasing temperature from 22 to 94 °C.
 
-**Table S1** - Binding prediction of the selected mapped DENV-1-specific peptide regions to MHC Class I and II.
+**Table S1** - Binding prediction of the selected mapped DENV-1-specific peptide regions to MHC Class I and II. Binding affinity of the consensus selected mapped peptide regions from DENV-1, DENV-2, DENV-3, DENV-4, and ZIKV was predicted for representative HLA class I and II alleles.
 
-**Table S2** - Selection analysis of selected mapped DENV-1-specific peptide. 
+**Table S2** - Selection analysis of selected mapped DENV-1-specific peptide. Sites under evolutionary selection within the selected mapped peptide regions using four codon-based evolutionary models: Single-Likelihood Ancestor Counting (SLAC), Fixed Effects Likelihood (FEL), Fast Unconstrained Bayesian Approximation (FUBAR), and Mixed Effects Model of Evolution (MEME). SLAC, FEL, and MEME (p ≤ 0.10) were used to detect weak to moderate and episodic selection, whereas FUBAR (posterior probability ≥ 0.90) was used to detect strong pervasive selection. SLAC, FEL, and FUBAR identified sites under purifying selection, while MEME detected sites under episodic positive selection.
