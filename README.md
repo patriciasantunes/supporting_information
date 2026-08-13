@@ -5,3 +5,7 @@ Description of files
 **Figure S2** - Relative SASA of the selected mapped peptide region in LUNA and in the experimentally determined structure. Relative SASA values for each of the 17 residues comprising the selected peptide region were compared between LUNA and the corresponding region onto the experimentally determined NS1 DENV1 protein structure (7WUT_A). Higher relative SASA values indicate greater solvent exposure of the respective residue. 
 
 **Figure S3** - Circular dichroism spectra of LUNA. Ellipticity of LUNA at 222 nm measured as a function of increasing temperature from 22 to 94 °C.
+
+**Table S1** - Binding prediction of the selected mapped DENV-1-specific peptide regions to MHC Class I and II.
+
+**Table S2** - Selection analysis of selected mapped DENV-1-specific peptide. 
